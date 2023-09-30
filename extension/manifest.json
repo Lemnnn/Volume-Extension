@@ -1,0 +1,8 @@
+{
+  "manifest_version": 3,
+  "name": "Volume Extension",
+  "version": "1.0.1",
+
+  "default_locale": "en",
+  "description": "Change the volume of any page you want"
+}
